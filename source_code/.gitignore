@@ -1,0 +1,14 @@
+build*
+bin
+.idea
+.vscode
+.vs
+node_modules
+Testing
+cmake-*
+monthly_data\.txt
+
+.DS_Store
+!iif_analysis/raw_data/.gitkeep
+!iif_analysis/raw_data/rename.sh
+iif_analysis/raw_data/
