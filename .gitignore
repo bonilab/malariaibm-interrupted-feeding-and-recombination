@@ -2,3 +2,5 @@
 **/.vscode
 **/.ipynb_checkpoints/
 **/__pycache__/
+iif_analysis/simulation_outputs/
+!iif_analysis/simulation_outputs/.gitkeep
