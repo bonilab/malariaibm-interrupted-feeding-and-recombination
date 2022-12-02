@@ -2,5 +2,6 @@
 **/.vscode
 **/.ipynb_checkpoints/
 **/__pycache__/
+iif_analysis/organized_monthly_outputs_all_combined.csv
 iif_analysis/simulation_outputs/
 !iif_analysis/simulation_outputs/.gitkeep
