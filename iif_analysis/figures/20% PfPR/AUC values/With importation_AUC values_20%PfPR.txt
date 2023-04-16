@@ -1,0 +1,147 @@
+# with importation, AUC values
+# 20% PfPR
+
+METRIC=OutcomeMetricOption.AUC
+***interrupted_feeding=0p0***
+5-Year Cycling
+  12.87 (  10.69-  17.09)
+***interrupted_feeding=0p05***
+5-Year Cycling
+  33.70 (  24.66-  42.01)
+***interrupted_feeding=0p1***
+5-Year Cycling
+  80.64 (  59.08- 100.43)
+***interrupted_feeding=0p15***
+5-Year Cycling
+ 148.56 ( 107.15- 191.10)
+***interrupted_feeding=0p2***
+5-Year Cycling
+ 255.56 ( 206.09- 322.29)
+METRIC=OutcomeMetricOption.AUC
+***interrupted_feeding=0p0***
+Adaptive Cycling
+  30.66 (  21.83-  40.30)
+***interrupted_feeding=0p05***
+Adaptive Cycling
+  46.82 (  37.59-  57.10)
+***interrupted_feeding=0p1***
+Adaptive Cycling
+  89.27 (  72.69- 108.63)
+***interrupted_feeding=0p15***
+Adaptive Cycling
+ 163.81 ( 127.26- 203.13)
+***interrupted_feeding=0p2***
+Adaptive Cycling
+ 282.56 ( 227.81- 337.34)
+METRIC=OutcomeMetricOption.AUC
+***interrupted_feeding=0p0***
+MFT
+   9.56 (   7.48-  12.63)
+***interrupted_feeding=0p05***
+MFT
+  24.40 (  17.37-  36.31)
+***interrupted_feeding=0p1***
+MFT
+  70.28 (  54.43-  97.81)
+***interrupted_feeding=0p15***
+MFT
+ 171.87 ( 122.63- 219.51)
+***interrupted_feeding=0p2***
+MFT
+ 297.84 ( 226.68- 357.32)
+METRIC=OutcomeMetricOption.AUC
+***interrupted_feeding=0p0***
+5-Year Cycling
+ 271.04 ( 213.69- 308.74)
+***interrupted_feeding=0p05***
+5-Year Cycling
+ 449.26 ( 402.50- 521.77)
+***interrupted_feeding=0p1***
+5-Year Cycling
+ 694.02 ( 633.74- 774.56)
+***interrupted_feeding=0p15***
+5-Year Cycling
+ 939.31 ( 876.49-1048.90)
+***interrupted_feeding=0p2***
+5-Year Cycling
+1218.24 (1131.90-1282.22)
+METRIC=OutcomeMetricOption.AUC
+***interrupted_feeding=0p0***
+Adaptive Cycling
+ 337.13 ( 282.43- 400.79)
+***interrupted_feeding=0p05***
+Adaptive Cycling
+ 510.37 ( 437.68- 593.47)
+***interrupted_feeding=0p1***
+Adaptive Cycling
+ 689.72 ( 635.53- 765.12)
+***interrupted_feeding=0p15***
+Adaptive Cycling
+ 866.77 ( 781.39- 931.73)
+***interrupted_feeding=0p2***
+Adaptive Cycling
+1021.09 ( 966.49-1097.30)
+METRIC=OutcomeMetricOption.AUC
+***interrupted_feeding=0p0***
+MFT
+ 132.96 ( 107.47- 161.37)
+***interrupted_feeding=0p05***
+MFT
+ 309.26 ( 251.11- 361.01)
+***interrupted_feeding=0p1***
+MFT
+ 590.18 ( 505.49- 660.36)
+***interrupted_feeding=0p15***
+MFT
+ 948.68 ( 867.02-1040.72)
+***interrupted_feeding=0p2***
+MFT
+1255.52 (1148.37-1316.92)
+METRIC=OutcomeMetricOption.AUC
+***interrupted_feeding=0p0***
+5-Year Cycling
+1947.51 (1834.56-2104.65)
+***interrupted_feeding=0p05***
+5-Year Cycling
+2240.04 (2052.87-2315.20)
+***interrupted_feeding=0p1***
+5-Year Cycling
+2444.57 (2344.42-2543.74)
+***interrupted_feeding=0p15***
+5-Year Cycling
+2585.54 (2528.92-2658.37)
+***interrupted_feeding=0p2***
+5-Year Cycling
+2711.89 (2655.60-2766.80)
+METRIC=OutcomeMetricOption.AUC
+***interrupted_feeding=0p0***
+Adaptive Cycling
+1482.70 (1335.94-1615.27)
+***interrupted_feeding=0p05***
+Adaptive Cycling
+1593.02 (1503.11-1679.73)
+***interrupted_feeding=0p1***
+Adaptive Cycling
+1686.61 (1620.23-1770.25)
+***interrupted_feeding=0p15***
+Adaptive Cycling
+1807.20 (1717.60-1885.79)
+***interrupted_feeding=0p2***
+Adaptive Cycling
+1958.32 (1896.37-2050.88)
+METRIC=OutcomeMetricOption.AUC
+***interrupted_feeding=0p0***
+MFT
+1392.84 (1278.15-1530.39)
+***interrupted_feeding=0p05***
+MFT
+1758.14 (1661.60-1859.72)
+***interrupted_feeding=0p1***
+MFT
+2090.63 (2003.47-2151.14)
+***interrupted_feeding=0p15***
+MFT
+2361.82 (2270.45-2424.01)
+***interrupted_feeding=0p2***
+MFT
+2601.88 (2534.81-2671.79)

@@ -1,0 +1,147 @@
+# no importation, time until 1% values
+# 20% PfPR
+
+METRIC=OutcomeMetricOption.T_UNTIL_1_PERCENT_IN_20_YR_SETTING
+***interrupted_feeding=0p0***
+5-Year Cycling
+  20.10 (  20.10-  20.10)
+***interrupted_feeding=0p05***
+5-Year Cycling
+  17.56 (  16.35-  18.69)
+***interrupted_feeding=0p1***
+5-Year Cycling
+  14.77 (  13.26-  15.68)
+***interrupted_feeding=0p15***
+5-Year Cycling
+  11.85 (  10.35-  13.39)
+***interrupted_feeding=0p2***
+5-Year Cycling
+   9.72 (   8.99-  10.76)
+METRIC=OutcomeMetricOption.T_UNTIL_1_PERCENT_IN_20_YR_SETTING
+***interrupted_feeding=0p0***
+Adaptive Cycling
+  19.52 (  16.66-  20.10)
+***interrupted_feeding=0p05***
+Adaptive Cycling
+  14.47 (  12.97-  16.35)
+***interrupted_feeding=0p1***
+Adaptive Cycling
+  11.89 (  11.00-  13.14)
+***interrupted_feeding=0p15***
+Adaptive Cycling
+  10.18 (   9.26-  11.62)
+***interrupted_feeding=0p2***
+Adaptive Cycling
+   8.68 (   7.99-   9.76)
+METRIC=OutcomeMetricOption.T_UNTIL_1_PERCENT_IN_20_YR_SETTING
+***interrupted_feeding=0p0***
+MFT
+  20.10 (  20.10-  20.10)
+***interrupted_feeding=0p05***
+MFT
+  17.85 (  16.33-  19.29)
+***interrupted_feeding=0p1***
+MFT
+  12.93 (  11.68-  14.33)
+***interrupted_feeding=0p15***
+MFT
+  10.26 (   9.30-  11.85)
+***interrupted_feeding=0p2***
+MFT
+   8.51 (   7.93-   9.87)
+METRIC=OutcomeMetricOption.T_UNTIL_1_PERCENT_IN_20_YR_SETTING
+***interrupted_feeding=0p0***
+5-Year Cycling
+   8.18 (   6.99-   8.85)
+***interrupted_feeding=0p05***
+5-Year Cycling
+   7.10 (   6.51-   7.62)
+***interrupted_feeding=0p1***
+5-Year Cycling
+   6.01 (   5.42-   6.62)
+***interrupted_feeding=0p15***
+5-Year Cycling
+   5.59 (   5.07-   6.20)
+***interrupted_feeding=0p2***
+5-Year Cycling
+   5.10 (   4.84-   5.45)
+METRIC=OutcomeMetricOption.T_UNTIL_1_PERCENT_IN_20_YR_SETTING
+***interrupted_feeding=0p0***
+Adaptive Cycling
+   5.84 (   5.42-   6.78)
+***interrupted_feeding=0p05***
+Adaptive Cycling
+   5.76 (   5.42-   6.26)
+***interrupted_feeding=0p1***
+Adaptive Cycling
+   5.55 (   5.26-   6.18)
+***interrupted_feeding=0p15***
+Adaptive Cycling
+   5.26 (   5.10-   5.84)
+***interrupted_feeding=0p2***
+Adaptive Cycling
+   4.93 (   4.68-   5.17)
+METRIC=OutcomeMetricOption.T_UNTIL_1_PERCENT_IN_20_YR_SETTING
+***interrupted_feeding=0p0***
+MFT
+  11.89 (  11.10-  12.68)
+***interrupted_feeding=0p05***
+MFT
+   9.59 (   9.08-  10.03)
+***interrupted_feeding=0p1***
+MFT
+   7.76 (   7.43-   8.34)
+***interrupted_feeding=0p15***
+MFT
+   6.80 (   6.43-   7.12)
+***interrupted_feeding=0p2***
+MFT
+   5.93 (   5.59-   6.18)
+METRIC=OutcomeMetricOption.T_UNTIL_1_PERCENT_IN_20_YR_SETTING
+***interrupted_feeding=0p0***
+5-Year Cycling
+   3.76 (   3.51-   4.01)
+***interrupted_feeding=0p05***
+5-Year Cycling
+   3.76 (   3.59-   3.93)
+***interrupted_feeding=0p1***
+5-Year Cycling
+   3.68 (   3.42-   3.84)
+***interrupted_feeding=0p15***
+5-Year Cycling
+   3.59 (   3.42-   3.68)
+***interrupted_feeding=0p2***
+5-Year Cycling
+   3.51 (   3.42-   3.59)
+METRIC=OutcomeMetricOption.T_UNTIL_1_PERCENT_IN_20_YR_SETTING
+***interrupted_feeding=0p0***
+Adaptive Cycling
+   3.68 (   3.42-   3.95)
+***interrupted_feeding=0p05***
+Adaptive Cycling
+   3.76 (   3.59-   3.93)
+***interrupted_feeding=0p1***
+Adaptive Cycling
+   3.68 (   3.51-   3.84)
+***interrupted_feeding=0p15***
+Adaptive Cycling
+   3.68 (   3.42-   3.76)
+***interrupted_feeding=0p2***
+Adaptive Cycling
+   3.51 (   3.34-   3.59)
+METRIC=OutcomeMetricOption.T_UNTIL_1_PERCENT_IN_20_YR_SETTING
+***interrupted_feeding=0p0***
+MFT
+   7.01 (   6.51-   7.34)
+***interrupted_feeding=0p05***
+MFT
+   6.10 (   5.76-   6.43)
+***interrupted_feeding=0p1***
+MFT
+   5.51 (   5.17-   5.76)
+***interrupted_feeding=0p15***
+MFT
+   4.84 (   4.59-   5.03)
+***interrupted_feeding=0p2***
+MFT
+   4.42 (   4.17-   4.68)
